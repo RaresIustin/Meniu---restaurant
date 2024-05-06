@@ -1,0 +1,5 @@
+﻿Coca_Cola 5.00 Racoritoare
+Suc_de_portocale 8.00 Sucuri_naturale
+Bere_blonda 7.00 Bere
+Vin_rosu_Merlot 20.00 Vinuri
+Cocktail_Mojito 15.00 Cocktail-uri

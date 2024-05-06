@@ -1,0 +1,5 @@
+Pizza 25.99 Fast-food
+Burger 18.50 Fast-food
+Salata_Caesar 15.00 Salate
+Paste_Carbonara 22.00 Paste
+Tocanita_de_porc 28.50 Mancaruri_traditionale
